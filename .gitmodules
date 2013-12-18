@@ -1,0 +1,3 @@
+[submodule "a10disp"]
+	path = a10disp
+	url = https://github.com/hglm/a10disp.git
