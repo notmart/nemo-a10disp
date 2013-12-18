@@ -24,7 +24,7 @@ Tool to change display resolution on A10 Arm boards
 
 
 %prep
-%setup -q -n %{name}-%{version}
+%setup -q -n %{name}-%{version}/a10disp
 
 # >> setup
 # << setup
